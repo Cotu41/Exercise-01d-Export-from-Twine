@@ -15,5 +15,5 @@ Created using Twine 2 and exported with Twison 0.0.1 (https://github.com/lazerwa
 None
 
 ## Created by
-Jason Francis
+Baerett Stone
 ```
